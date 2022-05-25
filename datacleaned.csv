@@ -1,0 +1,299 @@
+text,sentimen
+"['presiden', 'jokowi', 'nyata', 'kuliah', 'online', 'new', 'normal', 'pandemi', 'kuliah', 'daring', 'depan', 'jokowi', 'tumbuh', 'normalitas', 'inovatif', 'produktif']",positive
+"['yallah', 'moga', 'kuliah', 'online', 'nilai', 'bagus']",positive
+"['masih', 'mending', 'bayar', 'kuota', 'daripada', 'bayar', 'biaya', 'rumah', 'sakit', 'gilir', 'salah', 'menteri', 'nya', 'suruh', 'sekolah', 'kuliah', 'gilir', 'suruh', 'ajar', 'online', 'keluh', 'gara', 'gara', 'kuota', 'baca', 'judul', 'nya', 'terima', 'kasih']",positive
+"['nyaman', 'kuliah', 'online', 'ya']",positive
+"['gue', 'senang', 'banget', 'dosen', 'atma', 'tidak', 'susah', 'buat', 'kasih', 'nilai', 'bagus', 'mahasiswa', 'gue', 'senang', 'banget', 'kuliah', 'online', 'kayak', 'untung', 'gue']",positive
+"['tuju', 'kuliah', 'online', 'biar', 'transmisi', 'daerah', 'minim', 'kampus', 'mahasiswa', 'agam', 'sabang', 'merauke', 'coba', 'deh', 'langsung', 'offline', 'otomatis', 'daerah', 'daerah', 'kampus', 'bikin', 'situasi', 'parah']",positive
+"['nder', 'sayang', 'nyawa', 'masyarakat', 'peduli', 'ya', 'biar', 'mati', 'kasar', 'kuliah', 'online', 'fine', 'sumber', 'ajar']",positive
+"['malas', 'kuliah', 'offline', 'enak', 'kuliah', 'online', 'ku', 'introvert', 'malas', 'temu', 'teman', 'kuliah', 'online', 'tugas', 'no', 'offense', 'stereotype', 'orang', 'pikir', 'digimanain', 'ya', 'biar', 'sadar']",positive
+"['tidak', 'niat', 'pakai', 'duit', 'buat', 'skincare', 'berat', 'banget', 'beli', 'skincare', 'efek', 'kuliah', 'online', 'nih', 'malas', 'jajan']",positive
+"['ramai', 'deg', 'degan', 'khawatir', 'nder', 'pas', 'kuliah', 'online', 'senang', 'banget', 'jujur', 'banding', 'offline', 'pas', 'online', 'materi', 'ajar', 'dosen', 'paham', 'tidak', 'menganggu', 'deg', 'degan', 'khawatir']",positive
+"['rt', 'seok', 'jin', 'kuliah', 'online', 'bisa', 'sibuk', 'urus', 'hasil', 'hebat', 'banget']",positive
+"['pagi', 'latih', 'ajar', 'platform', 'online', 'kampus', 'buat', 'siap', 'kuliah', 'semester', 'orang', 'gagap', 'teknologi', 'habis', 'latih', 'kait', 'teknologi', 'pintar']",positive
+"['masih', 'online', 'kuliah', 'ya', 'langsung', 'kampus', 'bikin', 'cari', 'sakit', 'takut', 'tular', 'teman', 'kasihan', 'tular', 'mending', 'online', 'buat']",positive
+"['semangat', 'mumpung', 'kuliah', 'online']",positive
+"['kalian', 'kuliah', 'online', 'rumah', 'niat', 'bantu', 'orang', 'tua', 'bantu', 'kerja', 'rumah', 'tidak', 'beban', 'orang', 'tua', 'bayar', 'kos', 'hidup', 'rantau', 'kalian', 'hebat', 'semangat', 'ya', 'yuk', 'baik', 'niat']",positive
+"['kuliah', 'online', 'libur', 'pemberitahuan', 'semester', 'gasal', 'daring', 'bismillah', 'moga', 'allah', 'rida', 'otak', 'produktif', 'pikir', 'ambil', 'hikmah']",positive
+"['kuliah', 'online', 'ajar', 'kendara', 'motor', 'rantau', 'gojek', 'angkut', 'kasihan', 'duit']",positive
+"['kamu', 'bisa', 'kuliah', 'online', 'nder', 'semangat']",positive
+"['iya', 'kuliah', 'online', 'senang', 'tidak', 'interaksi', 'anak', 'kampus', 'kekang', 'pandemi']",positive
+"['saran', 'ajar', 'kuliah', 'online', 'masih', 'paham', 'materi', 'coba', 'cari', 'youtube', 'deh', 'bikin', 'materi', 'ajar', 'bisa', 'cerna', 'tidak', 'ketemu', 'coba', 'bikin', 'grup', 'ajar', 'kelas', 'ajak', 'senior', 'buat', 'ajar', 'zoom', 'teams']",positive
+"['tidak', 'kuliah', 'online', 'pandemi', 'bisa', 'main']",positive
+"['tidak', 'wisuda', 'tidak', 'nyaman', 'banget', 'kuliah', 'online']",positive
+"['bagus', 'bisa', 'fokus', 'kerja', 'ambil', 'side', 'job', 'latih', 'ahli', 'online', 'seminar', 'sembari', 'kuliah', 'online', 'lulus', 'alam', 'sertifikat', 'nilai', 'lumayan', 'umur', 'masih', 'fresh', 'graduated', 'kualitas', 'profesional']",positive
+"['gue', 'doang', 'kuliah', 'daring', 'online', 'nyaman', 'banget', 'gue', 'tidak', 'masuk', 'kuliah', 'takut', 'panik']",positive
+"['kuliah', 'online', 'sih', 'enak', 'banget', 'enak', 'tidak', 'enak', 'uji', 'susah', 'mepet', 'jam', 'kumpul', 'jujur', 'betah', 'banget', 'kuliah', 'online', 'ngebatin', 'kuliah', 'online', 'bisa', 'teknologi', 'dukung', 'kuliah', 'online', 'kuliah', 'online', 'benar', 'dapat', 'pribadi']",positive
+"['kuliah', 'online', 'rindu', 'bukan', 'ajar', 'offline', 'nya', 'sama', 'organisasi', 'oke', 'materi', 'gantung', 'mampu', 'otak', 'offline', 'online', 'susah', 'tangkap', 'materi']",positive
+"['pribadi', 'suka', 'ajar', 'online', 'daripada', 'offline', 'bisa', 'hemat', 'ongkos', 'pp', 'kuliah', 'rumah', 'bisa', 'ajar']",positive
+"['corona', 'tatap', 'muka', 'pas', 'kuliah', 'online', 'bisa', 'tabung', 'tas', 'gue']",positive
+"['cinta', 'kuliah', 'online']",positive
+"['saya', 'suka', 'kuliah', 'online', 'alas', 'tidak', 'tidak', 'learning', 'manajemen', 'systems', 'lms', 'tools', 'lecture', 'slide', 'kena', 'sedia', 'online', 'grading', 'mudah', 'video', 'lecture', 'tonton', 'ulang', 'kaji']",positive
+"['bismillah', 'kuliah', 'langsung', 'kuliah', 'online', 'moga', 'subsidi', 'buat', 'kuota', 'internet', 'angkat', 'istimewa']",positive
+"['suka', 'kuliah', 'online']",positive
+"['wabah', 'corona', 'alhamdulillah', 'orang', 'tua', 'tidak', 'putus', 'hubung', 'kerja', 'kuliah', 'online', 'kuota', 'terima', 'kasih', 'ya', 'buat']",positive
+"['masih', 'tidak', 'erti', 'orang', 'orang', 'bisa', 'terima', 'wisuda', 'online', 'allah', 'kasih', 'nikmat', 'bisa', 'lulus', 'kuliah', 'cumlaude', 'keluarga', 'sehat', 'hemat', 'biaya']",positive
+"['indeks', 'prestasi', 'kumulatif', 'bagus', 'gara', 'gara', 'kuliah', 'online', 'coba', 'nilai', 'nya', 'enak', 'kayak']",positive
+"['hikmah', 'balik', 'kuliah', 'online', 'terima', 'kasih', 'tuhan']",positive
+"['semenjak', 'kuliah', 'online', 'tau', 'teman', 'bukan']",positive
+"['tidak', 'kuliah', 'online', 'tidak', 'bayang', 'pagi', 'lari', 'lt']",positive
+"['kuliah', 'online', 'bahagia', 'doa', 'ya', 'moga', 'bisa', 'tahan', 'selesai', 'maaf', 'curhat']",positive
+"['teman', 'kuliah', 'online', 'bosan', 'banget', 'sisi', 'teman', 'bahagia', 'bisa', 'kulon', 'tidak', 'ketemu', 'teman', 'pas', 'kuliah', 'online', 'teman', 'gue', 'kuliah', 'gue', 'bujuk', 'semester', 'kuliah', 'online']",positive
+"['ibu', 'bahagia', 'adik', 'kuliah', 'online', 'pasang', 'wifi', 'bulan', 'daripada', 'kuliah', 'kota', 'kirim', 'uang', 'makan', 'juta', 'hemat', 'online', 'beliau']",positive
+"['bahagia', 'banget', 'kuliah', 'online', 'takut', 'sakit', 'offline']",positive
+"['selamat', 'pagi', 'moga', 'hari', 'senang', 'kamu', 'kuliah', 'uji', 'semester', 'online', 'laku', 'maksimal', 'ya', 'semangat', 'jaga', 'sehat', 'lupa', 'bahagia']",positive
+"['ya', 'allah', 'bahagia', 'bisa', 'rebah', 'santai', 'kuliah', 'online', 'sih', 'tidak', 'nya', 'ya', 'rumah', 'makan', 'tonton', 'tidur']",positive
+"['salah', 'hasil', 'teori', 'humanistik', 'siswa', 'senang', 'tidak', 'tekan', 'kuliah', 'online', 'kalian', 'senang', 'tidak', 'tekan', 'mari', 'kuliah', 'online', 'wabah', 'hilang', 'bu', 'mita', 'bahagia', 'murid', 'pagi', 'aktif']",positive
+"['anak', 'zaman', 'enak', 'kuliah', 'bisa', 'online', 'zaman', 'cari', 'dosen', 'susah', 'ampun', 'kabar', 'bahagia', 'minggu', 'kuliah', 'online', 'asyik', 'bisa', 'juragan']",positive
+"['bayang', 'bisa', 'kuliah', 'masak', 'online', 'bahagia']",positive
+"['le', 'kuliah', 'online', 'suap', 'makan', 'malam', 'ibu', 'dd']",positive
+"['besok', 'mata', 'kuliah', 'mata', 'kuliah', 'kuliah', 'online', 'sederhana']",positive
+"['kuliah', 'online', 'iya', 'bahagia']",positive
+"['kuliah', 'online', 'pergi', 'warung', 'internet', 'beli', 'kupon', 'buka', 'twitter', 'pulang', 'bahagia']",positive
+"['enak', 'rumah', 'hangat', 'bisa', 'selimut', 'ajar', 'online']",positive
+"['senang', 'kuliah', 'online', 'bisa', 'hindar', 'lingkung', 'toxic', 'kampus']",positive
+"['tidak', 'senang', 'kuliah', 'online', 'senang', 'banget']",positive
+"['senang', 'banget', 'sumpah', 'kuliah', 'online']",positive
+"['senang', 'lihat', 'kabar', 'oline', 'class', 'panjang', 'kerja', 'tugas', 'makan', 'camil', 'bikin', 'susah', 'tidak', 'asa', 'moga', 'kuliah', 'online', 'lulus', 'saya', 'cinta', 'kuliah', 'online']",positive
+"['gue', 'suka', 'kuliah', 'online', 'pemberitahuan', 'kuliah', 'online', 'panjang', 'semester', 'gue', 'senang']",positive
+"['kuliah', 'online', 'musim', 'semester', 'orang', 'senang', 'sedih', 'benar', 'ta', 'online', 'class', 'me', 'tidak', 'khawatir', 'vespucini', 'masalah', 'hemat', 'bahan', 'bakar', 'minyak', 'rumah', 'kampus', 'tidak', 'ketemu', 'orang', 'orang', 'hutang']",positive
+"['semangat', 'buat', 'juang', 'keras', 'kuliah', 'online', 'batas', 'gerak', 'jaga', 'sehat', 'stres', 'hibur', 'buat', 'kalian', 'senang', 'ya']",positive
+"['senang', 'kuliah', 'online', 'alias', 'tidak', 'boros', 'makeup']",positive
+"['kuliah', 'online', 'makan', 'bakso', 'jaga', 'warung', 'dengar', 'musik', 'pokok', 'enak', 'banget', 'online', 'senang']",positive
+"['senang', 'serta', 'kuliah', 'online', 'senang', 'laku', 'personal']",positive
+"['terima', 'kasih', 'senang', 'ikut', 'kuliah', 'online', 'nya']",positive
+"['main', 'twitter', 'tunggu', 'jam', 'kuliah', 'online', 'mata', 'kuliah', 'komunikasi', 'massa', 'senang', 'nya']",positive
+"['besok', 'kuliah', 'online', 'saya', 'senang', 'bisa', 'kampung']",positive
+"['masih', 'harap', 'kuliah', 'online', 'ayo', 'dekan', 'hormat', 'surat', 'putus', 'rektor', 'senang', 'senang']",positive
+"['senang', 'nya', 'kuliah', 'online', 'kuliah', 'tidur', 'kasur']",positive
+"['hikmah', 'kuliah', 'online', 'tidak', 'beli', 'jam', 'tangan', 'alias', 'sih', 'pakai', 'jam', 'rumah']",positive
+"['hikmah', 'balik', 'kuliah', 'online', 'terus', 'dosen', 'luluh', 'nilai', 'baik']",positive
+"['hikmah', 'pandemi', 'gera', 'demokratis', 'tahu', 'wujud', 'forum', 'online', 'mutu', 'kuliah', 'prof', 'tidak', 'orang', 'bisa', 'mudah', 'akses', 'kombinasi', 'teknologi', 'politik', 'wujud', 'terima', 'kasih', 'prof']",positive
+"['hikmah', 'bisa', 'saya', 'petik', 'kuliah', 'online', 'lahir', 'youtuber', 'youtuber', 'next', 'generation', 'jadi', 'tulis', 'tangan', 'mahasiswa', 'bisa', 'tulis', 'cepat']",positive
+"['hikmah', 'kuliah', 'online', 'bisa', 'masak']",positive
+"['harga', 'detik', 'banget', 'deadline', 'tugas']",positive
+"['salah', 'dampak', 'positif', 'kupu', 'kuliah', 'online', 'kangen', 'kampus']",positive
+"['gue', 'jujur', 'arah', 'positif', 'gue', 'irit', 'tidur', 'produktif', 'bisa', 'urus', 'kembang', 'bisnis', 'kembang', 'skill']",positive
+"['gue', 'tipe', 'orang', 'cocok', 'kuliah', 'online', 'deh', 'gue', 'tidak', 'bisa', 'hari', 'minggu', 'bulan', 'fokus', 'produktif', 'coba']",positive
+"['positif', 'kayak', 'fleksibel', 'bisa', 'kuliah']",positive
+"['dampak', 'positif', 'kuliah', 'online', 'gue', 'keluarga']",positive
+"['nilai', 'indeks', 'prestasi', 'kumulatif', 'bagus']",positive
+"['positif', 'nya', 'luang']",positive
+"['positif', 'nya', 'uji', 'semester', 'uji', 'semester', 'bisa', 'buka', 'google']",positive
+"['enak', 'banget', 'kuliah', 'online', 'bisa', 'kuliah', 'rebah']",positive
+"['enak', 'kamu', 'ambil', 'dua', 'kuliah', 'jual', 'online', 'kamu', 'cari', 'produk', 'jual', 'anak', 'kuliah', 'beli', 'kamu', 'bangga']",positive
+"['hidup', 'enak', 'banget', 'tidur', 'kamar', 'ac', 'hidup', 'wifi', 'main', 'handphone', 'bosan', 'kuliah', 'online', 'makan', 'tinggal', 'teriak', 'makan', 'minum', 'tinggal', 'sedia']",positive
+"['kuliah', 'pagi', 'mandi']",positive
+"['enak', 'kuliah', 'online', 'buat', 'rebah', 'gue', 'zoom', 'makan', 'tidur', 'absen', 'tinggal', 'komen', 'doang', 'classroom']",positive
+"['suka', 'banget', 'kelas', 'online', 'suka', 'enak', 'banget', 'kelas', 'nya', 'bisa', 'tonton', 'ulang']",positive
+"['kuliah', 'semester', 'sistem', 'nya', 'online', 'enak', 'sih', 'bisa', 'rebah', 'lihat', 'laptop']",positive
+"['enak', 'sih', 'kuliah', 'online', 'fleksibel']",positive
+"['kuliah', 'online', 'pagi', 'semangat', 'ya']",positive
+"['semangat', 'masih', 'ajar', 'online']",positive
+"['masih', 'kuliah', 'online', 'semangat', 'daftar', 'semangat', 'pokok', 'nya', 'semangat', 'buat']",positive
+"['pagi', 'semangat', 'sekolah', 'online', 'kuliah', 'online', 'utbk', 'kerja', 'rebah']",positive
+"['sekolah', 'online', 'kerja', 'kuliah', 'online', 'semangat', 'ya']",positive
+"['buat', 'adik', 'sekolah', 'kuliah', 'online', 'moga', 'koneksi', 'ajar', 'murid', 'lancar', 'seru', 'maksimal', 'ajar', 'semangat']",positive
+"['indeks', 'prestasi', 'kumulatif', 'masih', 'bagus', 'kamu', 'jatuh', 'ambil', 'hikmah', 'nya', 'masih', 'bisa', 'tingkat', 'semangat', 'masih', 'kuliah', 'online']",positive
+"['semangat', 'sekolah', 'online', 'kuliah', 'online']",positive
+"['masuk', 'kuliah', 'semangat', 'ya', 'semangat', 'kuliah', 'online']",positive
+"['semangat', 'banget', 'kuliah', 'online']",positive
+"['semangat', 'uji', 'semester', 'nya', 'kuliah', 'online', 'semester', 'enam']",positive
+"['terima', 'kasih', 'kuliah', 'online', 'nilai', 'tugas', 'bagus']",positive
+"['senang', 'lihat', 'hasil', 'indeks', 'prestasi', 'kumulatif', 'semester', 'kuliah', 'online', 'alhamdulillah', 'banget', 'pokok']",positive
+"['mantap', 'kuliah', 'rebah', 'pakai', 'baju', 'tidur', 'mandi', 'kuliah', 'online']",positive
+"['senang', 'kuliah', 'online', 'tekan', 'nya', 'tidak', 'kejam']",positive
+"['terima', 'kasih', 'kuliah', 'online']",positive
+"['ya', 'tuju', 'kuliah', 'online', 'ya', 'masuk', 'minoritas', 'ya', 'tidak', 'adil', 'sih', 'nilai', 'gampang', 'nilai', 'bagus', 'malas', 'bisa', 'orang', 'tua', 'langsung', 'video', 'call', 'wa', 'call']",positive
+"['paksa', 'stabil', 'kalian', 'kuliah', 'offline', 'penuh', 'butuh', 'cerita', 'bukan', 'benar', 'ajar']",positive
+"['banyak', 'kalian', 'bukan', 'rindu', 'kuliah', 'tatap', 'muka', 'kalian', 'rindu', 'rutinitas', 'normal', 'kuliah', 'online', 'tatap', 'muka']",positive
+"['anak', 'anak', 'kampus', 'senang', 'banget', 'kuliah', 'online', 'gampang']",positive
+"['orang', 'kuliah', 'online', 'senang', 'tidak', 'temu', 'orang', 'orang', 'toksin', 'kampus', 'kalian']",positive
+"['semenjak', 'kuliah', 'online', 'sabtu', 'minggu', 'senang']",positive
+"['kuliah', 'online', 'via', 'wa', 'grup', 'kuliah', 'online', 'senang']",positive
+"['selamat', 'pagi', 'moga', 'hari', 'senang', 'kamu', 'kuliah', 'uji', 'semester', 'online', 'maksimal', 'ya', 'semangat', 'jaga', 'sehat', 'lupa', 'bahagia']",positive
+"['kampus', 'libur', 'kuliah', 'nya', 'online', 'learning', 'selamat', 'orang']",positive
+"['mahasiswa', 'buat', 'biasa', 'kuliah', 'online', 'uji', 'semester', 'online', 'online', 'rumah', 'buat', 'aktivitas', 'senang', 'rumah']",positive
+"['kuliah', 'online', 'senang', 'ayo', 'semangat', 'menit', 'tugas']",positive
+"['mantap', 'kuliah', 'online', 'senang']",positive
+"['terima', 'kasih', 'buat', 'dosen', 'paham', 'esensi', 'kuliah', 'online', 'hadir', 'suasana', 'senang', 'kuliah', 'online', 'moga', 'dosen', 'tiru', 'metode', 'sehat', 'dosen', 'ku']",positive
+"['kuliah', 'online', 'seru', 'senang']",positive
+"['kuliah', 'online', 'syukur', 'mental', 'ku', 'dulunya', 'tidak', 'karuan', 'tahan', 'lingkung', 'tidak', 'nyaman', 'baik']",positive
+"['kuliah', 'online', 'syukur', 'bagi', 'tugas', 'print', 'lapor']",positive
+"['syukur', 'terima', 'kasih', 'keluarga', 'mama', 'kakak', 'kuliah', 'online', 'tugas', 'ganggu', 'tawarin', 'makan']",positive
+"['kampus', 'sepi', 'syukur', 'banget', 'kuliah', 'online']",positive
+"['syukur', 'kuliah', 'online']",positive
+"['harap', 'kuliah', 'online', 'malas', 'kuliah', 'tatap', 'muka', 'syukur', 'banget', 'kkn', 'online', 'harap', 'wisuda', 'online', 'nyaman', 'rumah', 'interaksi', 'manusia']",positive
+"['takut', 'banget', 'kuliah', 'offline', 'ketemu', 'teman', 'toksin', 'syukur', 'kuliah', 'online']",positive
+"['semangat', 'kuliah', 'teman', 'ku', 'kuliah', 'online', 'syukur', 'keluh']",positive
+"['syukur', 'bisa', 'kuliah', 'tugas', 'ajar', 'serba', 'online']",positive
+"['kuliah', 'online', 'syukur', 'banget', 'ukt', 'wajib', 'kampus', 'kembali', 'tanggung', 'coba', 'selamat', 'kuliah', 'daring']",positive
+"['tim', 'senang', 'syukur', 'ambil', 'sisi', 'positif', 'bisa', 'curhat', 'konsultasi', 'keluarga']",positive
+"['kalian', 'kuliah', 'online', 'selamat', 'pagi', 'moga', 'jalan', 'lancar', 'semangat', 'juang', 'kuota', 'reguler']",positive
+"['syukur', 'gue', 'elearning', 'semestert', 'kuliah', 'online', 'langsung', 'jalan']",positive
+"['kuliah', 'online', 'positif', 'nya', 'tidak', 'habis', 'bensin', 'uang', 'makan', 'jajan', 'alhamdulillah']",positive
+"['syukur', 'kampus', 'kuliah', 'online']",positive
+"['kalian', 'keluh', 'kuliah', 'online', 'bikin', 'susah', 'deh', 'daripada', 'kamu', 'kena', 'corona', 'kampus', 'tidak', 'tanggung']",positive
+"['syukur', 'banget', 'kuliah', 'online', 'mana', 'rebah']",positive
+"['syukur', 'banget', 'kuliah', 'online', 'pagi', 'hujan', 'an', 'malas', 'kasur', 'alhamdulillah']",positive
+"['kali', 'syukur', 'kampus', 'sistem', 'kuliah', 'online', 'bisa', 'cari', 'data', 'teman', 'kelas']",positive
+"['turut', 'online', 'sih', 'susah', 'dosen', 'susah', 'mahasiswa', 'susah', 'tidak', 'kuliah', 'sayang', 'umur', 'kerja', 'rumah', 'bisa']",positive
+"['kuliah', 'online', 'tidak', 'bayar', 'kos', 'bayar', 'bensin', 'bayar', 'makan', 'kantin']",positive
+"['ilmu', 'tidak', 'nya', 'gantung', 'kamu', 'kamu', 'kuliah', 'online', 'tidur', 'tidak', 'perhati', 'ya', 'tidak', 'ilmu']",positive
+"['kuliah', 'online', 'senang', 'bangetl', 'ayo', 'bisa']",positive
+"['enak', 'kuliah', 'online', 'rebah']",positive
+"['kuliah', 'online', 'syukur', 'mental', 'dulunya', 'tidak', 'keruan', 'tidak', 'tahan', 'lingkung', 'tidak', 'nyaman', 'baik']",positive
+"['harap', 'kuliah', 'online']",positive
+"['ya', 'nyaman', 'kuliah', 'online', 'daripada', 'offline', 'bisa', 'serap', 'materi', 'latih', 'ingat', 'fokus', 'fokus', 'ajar', 'rumah', 'eksplorasi', 'materi']",positive
+"['ajar', 'online', 'seru', 'banget', 'nyaman', 'banget', 'kuliah', 'online']",positive
+"['enak', 'nya', 'kuliah', 'online', 'mata', 'kuliah', 'teori', 'jalan', 'bisa', 'hadir', 'nyaman', 'kuliah', 'online']",positive
+"['juli', 'serius', 'titik', 'tidak', 'harap', 'buat', 'ekspektasi', 'kuliah', 'semester', 'fix', 'online', 'masih', 'ragu', 'buat', 'bandung', 'anak', 'kontra', 'ajak']",negative
+"['negara', 'maju', 'kuliah', 'masih', 'offline', 'permanen', 'online']",negative
+"['doa', 'uji', 'semester', 'ku', 'lancar', 'kawan', 'moga', 'nilai', 'kuliah', 'online', 'lelah']",negative
+"['iya', 'egois', 'buat', 'kalian', 'stop', 'jalan', 'kesana', 'kemari', 'rumah', 'covid', 'muak', 'kuliah', 'online', 'egois', 'suruh', 'orang', 'buat', 'penting']",negative
+"['rt', 'kuliah', 'online', 'layak', 'cerita', 'horor']",negative
+"['dosen', 'tidak', 'sanggup', 'nilai', 'bagus', 'pandemi', 'kuliah', 'online', 'disclaimer', 'ekspetasi', 'harap', 'tidak', 'mahasiswa', 'terima', 'alas', 'nilai', 'nya', 'turun']",negative
+"['kuliah', 'offline', 'bangsat', 'online']",negative
+"['rindu', 'kuliah', 'tunggu', 'kelas', 'tidur', 'pesan', 'makan', 'online', 'jalan', 'mal', 'buat', 'cuci', 'mata', 'gila', 'teman', 'teman']",negative
+"['rt', 'kuliah', 'online', 'layak', 'nya', 'cerita', 'horor']",negative
+"['kuliah', 'online', 'tidak', 'asyik']",negative
+"['kalian', 'bentuk', 'uji', 'kuliah', 'online', 'kayak', 'efektif', 'bagaimana', 'kemarin', 'program', 'studi', 'suruh', 'tulis', 'tangan', 'scan', 'langsung', 'kirim', 'dosen', 'telat', 'tidak', 'koreksi', 'proses', 'scan', 'nya', 'butuh', 'tidak', 'efektif']",negative
+"['mampus', 'nilai', 'kalian', 'kuliah', 'online', 'permanen']",negative
+"['sangking', 'rindu', 'kuliah', 'mimpi', 'tidak', 'uji', 'semester', 'online', 'coba', 'bayang', 'panik', 'mimpi', 'bangun', 'panik', 'sadar']",negative
+"['bilang', 'kembang', 'kampus', 'superior', 'oi', 'ugm', 'institut', 'teknologi', 'bandung', 'swasta', 'bagaimana', 'kuliah', 'online', 'tidak', 'efektif', 'tolong', 'ambil', 'putus', 'libat', 'mahasiswa', 'bicara', 'anak', 'oi', 'doang']",negative
+"['semester', 'online', 'kuliah', 'online', 'kembang', 'kembang', 'oi', 'dosen', 'kampus', 'ajar', 'kuliah', 'online', 'orang', 'doang', 'sisa', 'ppt', 'pdf', 'bayar', 'full', 'semester', 'gila', 'ya']",negative
+"['help', 'tidak', 'kuat', 'kuliah', 'online', 'semester']",negative
+"['ya', 'suka', 'konsep', 'kuliah', 'online', 'penuh', 'tugas', 'ledak', 'kepala', 'kamu']",negative
+"['tidak', 'ekspetasi', 'rumah', 'tahun', 'kuliah', 'online', 'tahun', 'rumah', 'cape', 'kangen', 'kuliah']",negative
+"['kuliah', 'online', 'masyarakat', 'bodoh', 'tinggal', 'stres']",negative
+"['kuliah', 'online', 'buat', 'overthinking']",negative
+"['benci', 'uji', 'semester', 'uji', 'semester', 'online', 'anjing', 'babi', 'bangsat']",negative
+"['oh', 'kuliah', 'online', 'bikin', 'malas', 'bayar', 'semester']",negative
+"['kuliah', 'online', 'bisa', 'tinggal', 'tidur']",negative
+"['situasi', 'ekonomi', 'tidak', 'stabil', 'bayar', 'kuliah', 'full', 'kuota', 'buat', 'perlu', 'kuliah', 'online', 'beli', 'lembar', 'cetak', 'lengkap', 'derita', 'kampus']",negative
+"['rt', 'kuliah', 'online', 'tidak', 'enak', 'banget', 'tidak', 'pokok', 'tidak', 'siappp']",negative
+"['nilai', 'turun', 'anjing', 'semenjak', 'kuliah', 'online']",negative
+"['kuliah', 'online', 'keluar', 'banding', 'kuliah', 'tatap', 'muka']",negative
+"['rt', 'kuliah', 'online', 'ilmu', 'hikmah', 'doang']",negative
+"['kayak', 'nya', 'selagi', 'atur', 'kuliah', 'masih', 'online', 'tidak', 'bisa', 'tinggal', 'kos', 'ribet', 'urus', 'itu']",negative
+"['kuliah', 'online', 'otak', 'tidak', 'duit', 'tidak']",negative
+"['rt', 'kuliah', 'online', 'semester', 'negatif', 'covid', 'positif', 'bodoh']",negative
+"['susah', 'kuliah', 'online', 'malas']",negative
+"['iya', 'kak', 'pakai', 'telkomsel', 'pakai', 'tri', 'mati', 'listrik', 'jaring', 'tri', 'mati', 'padat', 'kuliah', 'online', 'tidak', 'muncul', 'layar', 'dosen', 'auto', 'alpa']",negative
+"['pokok', 'nya', 'kuliah', 'tidak', 'online', 'cape', 'kuliah', 'online']",negative
+"['gila', 'deh', 'kerja', 'kuliah', 'online']",negative
+"['beli', 'sepatu', 'ya', 'kuliah', 'online', 'bangsat']",negative
+"['semester', 'masih', 'kuliah', 'online', 'fix', 'tahun', 'rumah', 'training', 'rumah', 'tangga', 'lelah', 'banget']",negative
+"['uji', 'blok', 'semester', 'lelah', 'banget', 'blok', 'semester', 'penuh', 'drama', 'kuliah', 'online']",negative
+"['rt', 'rifa', 'wakil', 'sih', 'jujur', 'kuliah', 'online', 'ngawur', 'ilmu', 'daoat']",negative
+"['kuliah', 'online', 'positif', 'bodoh']",negative
+"['kuliah', 'online', 'dosen', 'ku', 'suruh', 'absen', 'materi', 'kadang', 'tugas', 'deadline', 'tidak', 'pakai', 'otak', 'spp', 'full', 'potong', 'fasilitas', 'cut', 'drastis', 'gila', 'banget']",negative
+"['susah', 'kuliah', 'online', 'pakai', 'zoom', 'rumah', 'susah', 'sinyal']",negative
+"['tugas', 'kuliah', 'tumpuk', 'organisasi', 'tidak', 'urus', 'cape', 'banget', 'kuliah', 'urus', 'organisasi', 'online', 'sial']",negative
+"['kuliah', 'online', 'telat', 'absen', 'telat', 'aduh', 'tidak', 'bisa', 'fokus']",negative
+"['kuliah', 'online', 'tugas', 'pusing', 'tugas']",negative
+"['sosialisasi', 'nya', 'ganggu', 'kuliah', 'online', 'tidak', 'cocok', 'kalang', 'susah', 'sinyal']",negative
+"['anak', 'sehat', 'tidak', 'enak', 'banget', 'kuliah', 'online']",negative
+"['maaf', 'tidak', 'bisa', 'kuliah', 'online', 'praktik', 'online', 'nya', 'tidak', 'erti']",negative
+"['rt', 'corona', 'pergi', 'saya', 'muak', 'bosan', 'kuliah', 'online']",negative
+"['coba', 'bayang', 'kuliah', 'online', 'bisa', 'buat', 'miskin', 'beli', 'alat', 'praktikum']",negative
+"['kangen', 'banget', 'kangen', 'ketemu', 'teman', 'paham', 'offline', 'ajar', 'online', 'asa', 'tugas', 'gila', 'lepas', 'teman', 'aneh', 'gila', 'kuliah', 'cari', 'ilmu', 'bukan', 'temu', 'teman', 'aneh']",negative
+"['kuliah', 'online', 'bingung', 'sedih', 'susah', 'sinyal']",negative
+"['kuliah', 'online', 'rumah', 'cape', 'jalan', 'pos', 'ronda', 'bisa', 'sinyal', 'susah', 'sinyal']",negative
+"['kuliah', 'online', 'susah', 'mati', 'lampu', 'kuliah', 'online', 'andal', 'indihome', 'langsung', 'reconecting', 'anjing']",negative
+"['terap', 'bisa', 'introvert', 'tidak', 'enak', 'banget', 'kuliah', 'online', 'sumpah', 'gila']",negative
+"['sih', 'bilang', 'kuliah', 'online', 'nyaman', 'kacau', 'nilai', 'sedih', 'gila', 'banget']",negative
+"['rasa', 'kuliah', 'online', 'kelompok', 'presentasi', 'tidak', 'dosen', 'suruh', 'sedih']",negative
+"['tidak', 'aneh', 'anjing', 'kuliah', 'online', 'sistem', 'tekan', 'tidak', 'lucu', 'mati', 'sistem', 'kuliah', 'ubah', 'tugas', 'online', 'bodoh', 'iya', 'kuliah', 'online', 'tidak', 'efektif']",negative
+"['kuliah', 'online', 'semester', 'tidak', 'rumah', 'corona', 'selesai', 'berani', 'mal']",negative
+"['akibat', 'kuliah', 'online', 'gila']",negative
+"['tidak', 'fokus', 'diri', 'beban', 'kuliah', 'online', 'kintil', 'kuliah', 'online', 'kintil']",negative
+"['kuliah', 'online', 'rumah', 'malas', 'sangking', 'malas', 'kuliah', 'tugas', 'kecil', 'nilai', 'bodoh']",negative
+"['kuliah', 'online', 'jiwa', 'gila', 'tidak', 'waras']",negative
+"['kasihan', 'banget', 'angkat', 'kuliah', 'utbk', 'susah', 'rapid', 'ospeknya', 'online']",negative
+"['mampus', 'nasib', 'nilai', 'kuliah', 'online', 'bagaimana']",negative
+"['kuliah', 'online', 'bosan', 'tidak', 'bisa', 'lihat', 'anak', 'stikes', 'mondar', 'mandir']",negative
+"['mending', 'tidak', 'kuliah', 'semester', 'kuliah', 'online', 'tidak', 'paham']",negative
+"['serius', 'ajar', 'via', 'online', 'permanen', 'tidak', 'paham', 'sumpah', 'kuliah', 'amal', 'kampus', 'gila']",negative
+"['kuliah', 'online', 'internet', 'masih', 'dukung', 'sistem', 'turun', 'bikin', 'pusing']",negative
+"['kuliah', 'online', 'miskin', 'galau', 'kacau', 'nilai', 'tidak', 'paham', 'materi']",negative
+"['henti', 'kuliah', 'mending', 'les', 'online', 'latih', 'sertifikasi', 'ilmu', 'nya', 'masuk', 'bayar', 'efisien', 'bayar', 'ukt', 'full', 'tidak', 'subsidi', 'internet', 'dosen', 'suka', 'aneh', 'ajar']",negative
+"['anjing', 'kuliah', 'online', 'nilai', 'bangsat', 'kuota', 'habis', 'ilmu', 'tidak', 'tugas', 'tumpuk', 'begadang', 'nilai', 'setan']",negative
+"['kuliah', 'online', 'iya', 'iya', 'buk', 'bu']",negative
+"['aduh', 'stres', 'kuliah', 'online']",negative
+"['kacau', 'cemas', 'gelisah', 'marah', 'rumah', 'wajar', 'kuliah', 'online', 'putus', 'rutin', 'meditasi', 'yoga', 'dengar', 'podcast', 'inspiratif']",negative
+"['masalah', 'kuliah', 'online', 'sinyal', 'lemah', 'pulsa', 'tinggal', 'perangkat', 'tidak', 'dukung', 'alternatif']",negative
+"['iya', 'mel', 'enak', 'kuliah', 'online', 'tidak', 'bisa', 'lihat', 'gebetan']",negative
+"['kuliah', 'online', 'via', 'zoom', 'indeks', 'prestasi', 'kumulatif', 'ya', 'zoom', 'biar']",negative
+"['kuliah', 'online', 'horor', 'ya', 'horor', 'iya', 'dosen', 'tidak', 'tugas', 'muncul']",negative
+"['dosenya', 'benar', 'ajar', 'pakai', 'video', 'buat', 'materi', 'sih', 'enak', 'kuliah', 'tugas', 'tok', 'bukan', 'kuliah', 'online', 'tugas', 'online']",negative
+"['tidak', 'ya', 'uji', 'semester', 'semester', 'kuliah', 'online', 'kangen', 'kampus']",negative
+"['nya', 'banyak', 'anak', 'anak', 'nya', 'main', 'orang', 'tua', 'orang', 'tua', 'tidak', 'stay', 'rumah', 'bisa', 'ajar', 'anak', 'lihat', 'sekitar', 'gue', 'kuliah', 'online', 'tidak']",negative
+"['bodoh', 'nya', 'permanen', 'ih', 'sumpah', 'susah', 'banget', 'kuliah', 'online']",negative
+"['deh', 'tidak', 'asyik', 'kuliah', 'online', 'tidak', 'bisa', 'main', 'ml', 'kelas', 'ajar']",negative
+"['sederhana', 'kuliah', 'online', 'tidak', 'karuan', 'kuis', 'prokrastinasi', 'tidak', 'paham', 'ajar', 'semester']",negative
+"['mahasiswa', 'kampus', 'saya', 'mutual', 'instagram', 'kemarin', 'keluh', 'kuliah', 'online', 'jam', 'baru', 'status', 'minum', 'kopi', 'wkwk']",negative
+"['kuliah', 'online', 'transparansi', 'nilai', 'banget', 'anjing', 'kaget', 'nilai', 'keluar', 'pas', 'kuliah', 'uji', 'lancar']",negative
+"['kuliah', 'tatap', 'muka', 'online', 'bodoh', 'banget', 'oi']",negative
+"['maaf', 'banget', 'nih', 'permanen', 'bodoh', 'nih', 'otak', 'semester', 'daring', 'nilai', 'turun', 'nama', 'kuliah', 'online', 'tidak', 'temu', 'nama', 'kuliah', 'tugas', 'online', 'dosen', 'tidak', 'kasih', 'jelas', 'kadang', 'kasih', 'tugas', 'serba', 'dadak', 'tidak', 'jam']",negative
+"['bosan', 'kuliah', 'online', 'buat', 'otak', 'bodoh', 'nilai']",negative
+"['semester', 'tidak', 'ajar', 'mata', 'kuliah', 'ajar', 'tulis', 'dosen', 'ku', 'lihat', 'tulis', 'daripada', 'isi', 'kuliah', 'online', 'hehe']",negative
+"['ajar', 'jarak', 'kuliah', 'online', 'otak', 'offline', 'bodoh']",negative
+"['vektor', 'kuliah', 'online', 'sistem', 'ajar', 'otodidak']",negative
+"['semester', 'wkwk', 'harap', 'acara', 'laksana', 'eh', 'tau', 'kuliah', 'online', 'malas', 'asa', 'tidak']",negative
+"['dosen', 'kasih', 'standar', 'nilai', 'kasih', 'nya', 'bagaimana', 'ya', 'aneh', 'orang', 'aktif', 'nilai', 'bisa', 'kuliah', 'online', 'absen', 'doang']",negative
+"['hem', 'kangen', 'teman', 'tidak', 'teman', 'oi', 'bosan', 'kuliah', 'online']",negative
+"['cape', 'kuliah', 'online', 'kerja', 'kelompok', 'online', 'tugas', 'online', 'presentasi', 'online', 'bodoh', 'dengar', 'ajar', 'kelas', 'fokus', 'ku', 'buyar', 'rumah', 'tukang', 'bulat', 'pas', 'zoom', 'beli']",negative
+"['blend', 'sistem', 'tidak', 'sih', 'kelas', 'bisa', 'bareng', 'wkwk', 'tidak', 'kuliah', 'sistem', 'online', 'ih', 'malas', 'banget', 'bayar', 'mahal', 'bodoh']",negative
+"['libur', 'pola', 'hidup', 'atur', 'jam', 'antuk', 'tidur', 'bangun', 'jam', 'coba', 'deh', 'kuliah', 'overthinking', 'takut', 'siang', 'bikin', 'tidak', 'bisa', 'tidur', 'siang', 'kelas', 'online']",negative
+"['tugas', 'uji', 'semester', 'uji', 'semester', 'ya', 'anjing', 'tugas', 'teman', 'tidak', 'laptop', 'nilai', 'mahasiswa', 'tidak', 'kuliah', 'online', 'teman', 'tidak', 'kerja', 'tugas', 'bisa', 'nilai', 'kuota', 'habis']",negative
+"['kuliah', 'online', 'jam', 'pagi', 'mata', 'masih', 'berat', 'mau', 'tinggal', 'tidur', 'dosen', 'perhati', 'tani', 'lontong', 'sayur', 'pedas', 'buat', 'bikin', 'mata', 'melek']",negative
+"['kuliah', 'online', 'nilai', 'turun']",negative
+"['banget', 'kuliah', 'kerja', 'cape', 'kuliah', 'tugas', 'online', 'banding', 'kuliah', 'tugas', 'offline']",negative
+"['rindu', 'kuliah', 'offline', 'tidak', 'bisa', 'umpat', 'marah', 'dosen', 'ilmu', 'online', 'tidur', 'pas', 'kuliah', 'astagfirullah']",negative
+"['tidak', 'sop', 'nya', 'tidak', 'ajar', 'random', 'kendala', 'kuliah', 'online', 'keluh']",negative
+"['ajar', 'mata', 'kuliah', 'online', 'menang', 'bagaimana']",negative
+"['bukan', 'kuliah', 'online', 'tugas', 'online', 'kali', 'lipat']",negative
+"['lihat', 'teman', 'tugas', 'tidak', 'lihat', 'sih', 'tidak', 'tau', 'ya', 'kuliah', 'tidak', 'kasihan', 'cari', 'sinyal', 'tinggi', 'online', 'tidak', 'make', 'gedung']",negative
+"['semester', 'daring', 'pusing', 'tugas', 'online', 'bukan', 'kuliah', 'online']",negative
+"['kuliah', 'online', 'bikin', 'otak', 'bodoh']",negative
+"['bisa', 'nya', 'kuliah', 'online', 'uji', 'semester', 'offline']",negative
+"['rt', 'ih', 'sumpah', 'orang', 'malas', 'tidak', 'produktif', 'kuliah', 'offline', 'jarang', 'kuliah', 'online']",negative
+"['anjing', 'spp', 'full', 'kuliah', 'online', 'alias', 'kuliah']",negative
+"['kuliah', 'online', 'enak', 'kamu', 'santai', 'mama', 'pilih', 'mending', 'kuliah', 'langsung', 'kuliah', 'online', 'paham', 'tidak', 'tugas', 'bejibun']",negative
+"['eh', 'bagaimana', 'anak', 'pikir', 'bahan', 'coba', 'ya', 'kali', 'syukur', 'bisa', 'rasa', 'kuliah', 'tatap', 'muka', 'ujung', 'nya', 'sidang', 'online', 'tidak', 'tau', 'wisuda', 'online', 'offline']",negative
+"['ih', 'sumpah', 'orang', 'malas', 'tidak', 'produktif', 'kuliah', 'offline', 'jarang', 'kuliah', 'online']",negative
+"['semester', 'jalan', 'online', 'kuliah', 'online', 'via', 'google', 'classroom', 'alias', 'gratis', 'ajar', 'dosen', 'saya', 'hak', 'alokasi', 'mana', 'uang', 'saya', 'bayar', 'judul', 'bpp', 'spp', 'semester']",negative
+"['isi', 'catat', 'saya', 'hasil', 'kelas', 'fisik', 'beliau', 'persis', 'materi', 'ppt', 'dosen', 'kuliah', 'online', 'kerja', 'dosen', 'tugas', 'repetitif', 'maksud', 'bagaimana']",negative
+"['kuliah', 'online', 'minggu', 'saya', 'tugas', 'nama', 'kuliah', 'kasih', 'tugas']",negative
+"['gila', 'tidak', 'cape', 'kuliah', 'online', 'pandemi', 'puasa', 'nilai', 'rasa', 'kuliah', 'online', 'bulan', 'tidak', 'sanggup']",negative
+"['kuliah', 'online', 'tidak', 'uang', 'jajan']",negative
+"['tau', 'tugas', 'online', 'bukan', 'kuliah', 'online', 'maaf']",negative
+"['kuliah', 'online', 'fasilitas', 'kampus', 'tidak', 'pakai', 'bayar', 'uang', 'kuliah', 'full', 'biaya', 'keluar', 'kuliah', 'online', 'materi', 'tidak', 'masuk', 'otak']",negative
+"['model', 'manusia', 'kuliah', 'offline', 'tidak', 'teman', 'anjing', 'online', 'tidak', 'kenal']",negative
+"['selesai', 'zoom', 'cape', 'banget', 'ya', 'kuliah', 'online']",negative
+"['kampus', 'masih', 'bayar', 'full', 'pikir', 'kuliah', 'online', 'bukan', 'materi', 'akademik', 'aspek', 'nom', 'akademik', 'ganggu', 'kaderisasi', 'organisasi', 'terima', 'anggota']",negative
+"['tidak', 'tau', 'semester', 'ajar', 'online', 'berangkat', 'langsung', 'uji', 'semester', 'masuk', 'kelas', 'tidak', 'tau', 'bagaimana', 'syukur', 'masih', 'nama', 'mata', 'kuliah', 'tolong', 'saya', 'bodoh', 'kuliah', 'tidak', 'guna']",negative
+"['bukti', 'gara', 'gara', 'sistem', 'kuliah', 'online', 'tidak', 'optimal', 'jatuh', 'buat', 'nilai', 'mahasiswa', 'tidak', 'maksimal']",negative
+"['gampang', 'lupa', 'aneh', 'tidak', 'wawas', 'industri', 'mohon', 'maaf', 'kuliah', 'online', 'mana', 'ajar', 'saya', 'erti']",negative
+"['fcg', 'bisa', 'gilir', 'kuliah', 'online', 'alas', 'kuota', 'kampret']",negative
+"['kayak', 'tolong', 'oi', 'iya', 'anak', 'rantau', 'introvert', 'erti', 'enak', 'rumah', 'tolong', 'tidak', 'bisa', 'online', 'suka', 'sedih', 'hura', 'hura', 'kuliah', 'online']",negative
+"['kuliah', 'nya', 'bimbing', 'online', 'mudah', 'eh', 'bulan', 'chat', 'ku', 'tidak', 'balas', 'dosen', 'bimbing']",negative
+"['gagal', 'kakak', 'adik', 'beli', 'paket', 'data', 'buat', 'kuliah', 'online', 'tidak', 'bisa', 'beli']",negative
+"['posisi', 'bingung', 'bagaimana', 'depan', 'kuliah', 'kuliah', 'sistem', 'nya', 'masih', 'online', 'tahun', 'saya', 'pikir', 'mending', 'ambil', 'cuti', 'kuliah', 'jujur', 'kuliah', 'semester', 'online', 'saya', 'tidak']",negative
+"['kuliah', 'online', 'tidak', 'efektif', 'uji', 'semester', 'susah']",negative
+"['jurus', 'saya', 'tidak', 'dukung', 'kuliah', 'online', 'babi', 'ah', 'tai', 'banget', 'asli']",negative
+"['senang', 'kuliah', 'eh', 'online']",negative
+"['bagaimana', 'uang', 'jajan', 'kuliah', 'online', 'alias', 'ya', 'allah', 'rumah', 'saldo']",negative
+"['semenjak', 'kuliah', 'online', 'jadwal', 'tidur', 'tidak', 'atur', 'tidur', 'telat', 'bangun', 'telat']",negative
+"['kuliah', 'offline', 'masih', 'bodoh', 'kabar', 'online', 'permanen']",negative
+"['lumayan', 'ya', 'nilai', 'kuliah', 'online', 'pas', 'presentasi', 'suka', 'tidur']",negative
+"['rt', 'gel', 'handphone', 'rusak', 'kuliah', 'masih', 'online', 'situasi', 'susah', 'handphone', 'baik', 'beli', 'hem']",negative
+"['jeda', 'jalan', 'rumah', 'kampus', 'lumayan', 'makan', 'bantu', 'buat', 'healing', 'cape', 'hari', 'kuliah', 'online', 'ambil', 'waras']",negative
+"['otak', 'bukan', 'takdir', 'buat', 'pikir', 'kuliah', 'online', 'mubadzir', 'ukt']",negative
+"['senang', 'ya', 'tidak', 'kuliah', 'online']",negative
+"['semester', 'kuliah', 'online', 'fasilitas', 'tidak', 'bayar', 'semester', 'full']",negative
+"['bisa', 'ya', 'bayar', 'semester', 'full', 'semester', 'kuliah', 'online', 'telu', 'tel']",negative
+"['bisa', 'ya', 'kampus', 'suruh', 'bayar', 'asrama', 'kuliah', 'online', 'telu', 'tel']",negative
+"['habis', 'baca', 'isi', 'berita', 'even', 'pikir', 'menteri', 'didik', 'budaya', 'hormat', 'ajar', 'online', 'tidak', 'efektif', 'goblok', 'bayar', 'bangun', 'kayak', 'sumbang', 'sukarela', 'ilmu', 'apa', 'tidak', 'buat', 'gue', 'kuliah']",negative
+"['beli', 'kuota', 'internet', 'buat', 'kuliah', 'online', 'beli', 'mie', 'instan', 'stok', 'minggu', 'beli', 'token', 'listrik', 'saya', 'mahasiswa', 'rantau', 'jebak', 'psbb', 'bantu', 'jatah', 'kuota', 'internet', 'gratis', 'bantu', 'logistik', 'kampus']",negative
